@@ -109,7 +109,7 @@
 <details>
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
-   <a href="https://github.com/LucasGoiana"><img alt="Candida's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=LucasGoiana&custom_title=Candida%20Noronha's%20Contribution%20Graph&theme=react-dark" /></a>
+   <a href="https://github.com/LucasGoiana"><img alt="Lucas Goiana Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=LucasGoiana&custom_title=Lucas Goiana%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
 
 </details>
@@ -126,4 +126,4 @@
 
 </p>
 
-<img align="right" alt="Coding" width="450" src="https://lucasgoiana.com/wp-content/uploads/2020/07/3327590.png" data-canonical-src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif" style="max-width:100%;"/>
+<img align="center" alt="Coding" width="450" src="https://lucasgoiana.com/wp-content/uploads/2020/07/3327590.png" data-canonical-src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif" style="max-width:100%;"/>
