@@ -125,5 +125,3 @@
 	<a href="https://www.linkedin.com/in/lucas-goiana-malicia-451162b4/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
 
 </p>
-
-<img align="center" alt="Coding" width="450" src="https://lucasgoiana.com/wp-content/uploads/2020/07/3327590.png" data-canonical-src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif" style="max-width:100%;"/>
