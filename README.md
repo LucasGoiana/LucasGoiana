@@ -62,7 +62,7 @@
   &emsp;
     <a href="https://www.postgresql.org//"><img alt="PostGresSql" src ="https://img.shields.io/badge/PostgreSQL-07405E?style=flat&logo=PostgreSQL&logoColor=white"/></a>
   &emsp;
-    <a href="https://www.mongodb.com/><img alt="MongoDB" src="https://img.shields.io/badge/MongoDb-00b56a.svg?logo=MongoDb&logoColor=white"></a>
+    <a href="https://www.mongodb.com/"><img alt="MongoDB" src="https://img.shields.io/badge/MongoDb-00b56a.svg?logo=MongoDb&logoColor=white"></a>
   &emsp;
   
 </p>
