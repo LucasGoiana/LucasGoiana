@@ -14,7 +14,7 @@
     <img alt="PHP" src="https://img.shields.io/badge/PHP-%23777BB4.svg?logo=php&logoColor=white"/>
   </a>
   &emsp;
-  <a href="https://www.w3schools.com/cpp/" target="_blank"> 
+  <a href="http://clojure-doc.org/" target="_blank"> 
     <img alt="Clojure" src="https://img.shields.io/badge/Clojure%20-%2300599C.svg?logo=Clojure&logoColor=white">
   </a> 
    &emsp;
@@ -40,11 +40,11 @@
     <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white"/>
   </a>
  &emsp;
-  <a href="https://www.adobe.com/in/products/indesign.html" target="_blank"> 
+  <a href="https://sass-lang.com/" target="_blank"> 
     <img alt="Sass" src="https://img.shields.io/badge/Sass-FF3366?style=flat&logo=Sass&logoColor=white"/> 
   </a>
    &emsp;
- <a href="https://getbootstrap.com" target="_blank"> 
+ <a href="https://jquery.com/" target="_blank"> 
     <img alt="Jquery" src="https://img.shields.io/badge/jquery%20-%2300599C.svg?logo=Jquery&logoColor=white"/>
   </a>
 &emsp;
@@ -60,9 +60,9 @@
   &emsp;
     <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white"></a>
   &emsp;
-    <a href="https://www.sqlite.org/"><img alt="SQLite" src ="https://img.shields.io/badge/PostgreSQL-07405E?style=flat&logo=PostgreSQL&logoColor=white"/></a>
+    <a href="https://www.postgresql.org//"><img alt="PostGresSql" src ="https://img.shields.io/badge/PostgreSQL-07405E?style=flat&logo=PostgreSQL&logoColor=white"/></a>
   &emsp;
-    <a href="https://www.github.com"><img alt="GitHub Pages" src="https://img.shields.io/badge/MongoDb-00b56a.svg?logo=MongoDb&logoColor=white"></a>
+    <a href="https://www.mongodb.com/><img alt="MongoDB" src="https://img.shields.io/badge/MongoDb-00b56a.svg?logo=MongoDb&logoColor=white"></a>
   &emsp;
   
 </p>
@@ -109,7 +109,7 @@
 <details>
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
-   <a href="https://github.com/LucasGoiana"><img alt="Lucas Goiana Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=LucasGoiana&custom_title=Lucas Goiana%20Contribution%20Graph&theme=react-dark" /></a>
+   <a href="https://github.com/LucasGoiana"><img alt="Lucas Goiana Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=LucasGoiana&custom_title=Lucas%20Goiana%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
 
 </details>
