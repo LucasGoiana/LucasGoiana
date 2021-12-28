@@ -83,7 +83,7 @@
   &emsp;
     <a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"></a>
   &emsp;
-    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
+    <a href="#"><img alt="JetBrains" src="https://img.shields.io/badge/JetBrains-0078d7.svg?logo=JetBrains&logoColor=white"></a>
 
  &emsp; 
 </p>
