@@ -7,6 +7,7 @@
 <p align="center">
 <img src="https://github.com/LucasGoiana/LucasGoiana/blob/main/76Wr.gif"/>
 </p>
+
 ## 🛠️ Minhas Skills
 
 ### 👉 Backend Skills
