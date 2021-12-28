@@ -4,6 +4,9 @@
 <br>
 <p align="center">Nasci na capital de São Paulo. Possuo diploma de Tecnologia em Análise de Desenvolvimento de Sistemas pela Universidade Cidade de São Paulo (UNICID). Além de diversos cursos presenciais e a distância, em áreas como Desenvolvimento Web, Desenvolvimento Mobile, Hardware, Photoshop e outros. Tenho mais de 5 anos de experiência como Desenvolvedor, atualmente trabalho como Desenvolvedor de Software em algumas Consultorias de TI.</p>
 
+
+<img src="https://i.gifer.com/39Cg.mp4"/>
+
 ## 🛠️ Minhas Skills
 
 ### 👉 Backend Skills
